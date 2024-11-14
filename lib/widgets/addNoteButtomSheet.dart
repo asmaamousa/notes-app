@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:notes/constants.dart';
 import 'package:notes/widgets/CustomTextField.dart';
 import 'package:notes/widgets/customButton.dart';
 
